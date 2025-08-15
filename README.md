@@ -143,4 +143,4 @@ cd ~ && rm -rf ~/trusted-setup-tmp
 - Community contributors for field‑tested tips.
 - This guide is a rewritten summary prepared for convenient sharing on GitHub.
   
-If you found this helpful, give it a ⭐ and share with others waiting in the queueand and join our telegram channel Good luck! ✨
+If you found this helpful, give it a ⭐ and share with others waiting in the queueand and join our telegram channel https://t.me/andhiiTGkamaii Good luck! ✨
