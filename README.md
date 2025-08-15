@@ -14,7 +14,7 @@
 ## 🧰 What you need
 
 - **OS:** Ubuntu 22.04
-- **Hardware (suggested for VPS):** 2 vCPU, 4GB RAM, 30GB+ SSD
+- **Hardware (suggested for VPS):** 4 vCPU, 8-16GB RAM, 30GB+ SSD
 - **GitHub account:** 
   - Age ≥ 1 month
   - ≥ 1 public repo
